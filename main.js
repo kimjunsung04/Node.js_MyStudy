@@ -39,7 +39,7 @@ var app = http.createServer(function(request,response){
       var err = `
       <html>
       <head>
-      <title>404</title>
+      <title>404 Not found</title>
       </head>
       <body>
       <br><br><br><br>
