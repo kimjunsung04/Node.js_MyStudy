@@ -6,4 +6,4 @@ while(i < number.length) {
     console.log(number[i]);
     i += 1;
 }
-console.log(`total = ${total}`);
+console.log(`Total = ${total}`);
